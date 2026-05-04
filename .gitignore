@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Maven Settings (contains secrets) ###
+.mvn/maven-settings.xml
+
 ### OS ###
 .DS_Store
 Thumbs.db
